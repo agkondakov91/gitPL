@@ -1,5 +1,3 @@
 # Description
 
-## Contributors
-
-1. Alexander
+Test repository to practice fork commands and pull request creation
